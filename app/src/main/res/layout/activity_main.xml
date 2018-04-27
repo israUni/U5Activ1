@@ -30,9 +30,9 @@
         android:layout_height="wrap_content"
         android:text="@string/Title2"
         android:textAppearance="@style/TextAppearance.AppCompat"
-        tools:layout_editor_absoluteX="163dp"
-        tools:layout_editor_absoluteY="163dp"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="163dp" />
 
     <TextView
         android:id="@+id/Title2"
