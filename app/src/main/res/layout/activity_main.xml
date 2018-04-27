@@ -1,24 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/Title1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Israel Eduardo Porfirio Moreno"
-        tools:layout_editor_absoluteX="97dp"
-        tools:layout_editor_absoluteY="81dp" />
+        android:text="@string/Title1"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="49dp"
+        tools:ignore="MissingConstraints" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/Name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="413104120"
+        android:text="@string/Alumno"
+        tools:layout_editor_absoluteX="97dp"
+        tools:layout_editor_absoluteY="81dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/Cta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Title2"
+        android:textAppearance="@style/TextAppearance.AppCompat"
         tools:layout_editor_absoluteX="163dp"
-        tools:layout_editor_absoluteY="144dp" />
+        tools:layout_editor_absoluteY="163dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/Title2"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="@string/Cta"
+        tools:layout_editor_absoluteX="156dp"
+        tools:layout_editor_absoluteY="199dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
