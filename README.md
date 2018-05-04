@@ -7,3 +7,9 @@
 3. Sube tu código desde Android Studio al repositorio.
 4. Ejecuta tu código en el emulador de Android.
 5. Sube los cambios del código a tu repositorio.
+
+### Unidad 5 Actividad 2
+1. Crea una actividad en Android Studio con un LinearLayout que muestre una de las imágenes del clima con un ImageView
+2. Crea un texto con la temperatura con un textView. (Los elementos deberán estar centrados en la pantalla)
+3. Sube los cambios del código a tu repositorio.
+4. Adjunta las capturas de pantalla de tu actividad y la liga de tu repositorio en un procesador de textos.
