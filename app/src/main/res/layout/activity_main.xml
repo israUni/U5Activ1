@@ -29,7 +29,6 @@
         android:id="@+id/CountryCode"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
         android:inputType="textMultiLine"
         android:singleLine="false"
         android:text="@string/Countries"
