@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">U5Activ2 - WEATHER</string>
-    <string name="Title">TEMPERATURE</string>
+    <string name="app_name">U5Activ3 - WEATHER</string>
+    <string name="Title">WEATHER APP</string>
     <string name="Celsius">28 °C</string>
     <string name="ImgDescription">Weather image</string>
+    <string name="Countries">Selecciona el país</string>
+    <string name="Cities">Selecciona la ciudad</string>
+    <string name="Validate">Consultar</string>
 </resources>
